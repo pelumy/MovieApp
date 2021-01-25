@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>519914940750-rud520n9qmr91qrel5eqclqh12o0gdjr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.519914940750-rud520n9qmr91qrel5eqclqh12o0gdjr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6SLdhj7lKjzq2aVukSeIKJ7sI9hdZx5c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>519914940750</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Lenever.movie-app-iOS</string>
+	<key>PROJECT_ID</key>
+	<string>access-movies</string>
+	<key>STORAGE_BUCKET</key>
+	<string>access-movies.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:519914940750:ios:5a36b07d26f28d60b0561f</string>
+	<key>DATABASE_URL</key>
+	<string>https://access-movies.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '10'
+
+target 'movie-app-iOS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for movie-app-iOS
+  pod 'SwiftLint'
+  pod 'SnapKit','~> 5.0'
+  pod 'Alamofire'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Database'
+  pod 'Firebase/Storage'
+  pod 'SimpleCheckbox'
+  pod 'SKCountryPicker', '1.2.0'
+
+  target 'movie-app-iOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'movie-app-iOSUITests' do
+    # Pods for testing
+  end
+
+end

@@ -1,0 +1,111 @@
+
+[
+    {
+        "movieThumbnail": "Deadpool",
+        "movieTitle": "DeadPool (2018)",
+        "movieGenre": "Action | Comedy",
+        "movieRating": "5 stars",
+        "movieTicketPrice": "$20",
+        "movieCountry": "USA",
+        "movieReleaseDate": "26-10-2020"
+    },
+    {
+        "movieThumbnail": "Assassins creed",
+        "movieTitle": "Assassins Creed",
+        "movieGenre": "Action | Adventure",
+        "movieRating": "5 stars",
+        "movieTicketPrice": "$20",
+        "movieCountry": "UK",
+        "movieReleaseDate": "27-10-2020"
+    },
+    {
+        "movieThumbnail": "Maleficient",
+        "movieTitle": "Maleficient (2014)",
+        "movieGenre": "Action | Adventure",
+        "movieRating": "5 stars",
+        "movieTicketPrice": "$20",
+        "movieCountry": "USA",
+        "movieReleaseDate": "28-10-2020"
+    },
+    {
+        "movieThumbnail": "Black Panther",
+        "movieTitle": "Black Panther",
+        "movieGenre": "Action | Sci-fi",
+        "movieRating": "5 stars",
+        "movieTicketPrice": "$20",
+        "movieCountry": "UK",
+        "movieReleaseDate": "29-10-2020"
+    },
+    {
+        "movieThumbnail": "Deadpool",
+        "movieTitle": "DeadPool",
+        "movieGenre": "Horror, Mystery",
+        "movieRating": "5 stars",
+        "movieTicketPrice": "$20",
+        "movieCountry": "USA",
+        "movieReleaseDate": "28-10-2020"
+    },
+    {
+        "movieThumbnail": "Deadpool",
+        "movieTitle": "DeadPool",
+        "movieGenre": "Action, Comedy",
+        "movieRating": "audiobook",
+        "movieTicketPrice": "$20",
+        "movieCountry": "UK",
+        "movieReleaseDate": "20-10-2020"
+    },
+    {
+        "movieThumbnail": "Deadpool",
+        "movieTitle": "DeadPool",
+        "movieGenre": "Action, Comedy",
+        "movieRating": "audiobook",
+        "movieTicketPrice": "$20",
+        "movieCountry": "USA",
+        "movieReleaseDate": "30-10-2020"
+    },
+    {
+        "movieThumbnail": "Deadpool",
+        "movieTitle": "DeadPool",
+        "movieGenre": "Action, Comedy",
+        "movieRating": "audiobook",
+        "movieTicketPrice": "$20",
+        "movieCountry": "USA",
+        "movieReleaseDate": "28-10-2020"
+    },
+    {
+        "movieThumbnail": "Deadpool",
+        "movieTitle": "DeadPool",
+        "movieGenre": "Action, Comedy",
+        "movieRating": "audiobook",
+        "movieTicketPrice": "$20",
+        "movieCountry": "USA",
+        "movieReleaseDate": "28-10-2020"
+    },
+    {
+        "movieThumbnail": "Deadpool",
+        "movieTitle": "DeadPool",
+        "movieGenre": "Action, Comedy",
+        "movieRating": "audiobook",
+        "movieTicketPrice": "$20",
+        "movieCountry": "USA",
+        "movieReleaseDate": "28-10-2020"
+    },
+    {
+        "movieThumbnail": "Deadpool",
+        "movieTitle": "DeadPool",
+        "movieGenre": "Action, Comedy",
+        "movieRating": "audiobook",
+        "movieTicketPrice": "$20",
+        "movieCountry": "USA",
+        "movieReleaseDate": "28-10-2020"
+    },
+    {
+        "movieThumbnail": "Deadpool",
+        "movieTitle": "DeadPool",
+        "movieGenre": "Action, Comedy",
+        "movieRating": "audiobook",
+        "movieTicketPrice": "$20",
+        "movieCountry": "USA",
+        "movieReleaseDate": "28-10-2020"
+    }
+  ]
