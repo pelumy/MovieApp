@@ -22,3 +22,17 @@ This application will help you keep track of the movies you have seen and movies
 <img src="https://drive.google.com/uc?export=view&id=1lwr8WNi6veP8TmnNQWw0NjPSbYeGvlV9" width = "300" >
 <img src="https://drive.google.com/uc?export=view&id=1sztjwyrLyyXCU0ub-bW7GdK-F20ukZsi" width = "300" >
 </p>
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install pod
+   ```sh
+   pod install
+   ```
+3. Run Xcode .xcWorkspace file
+   
+
