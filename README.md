@@ -23,11 +23,13 @@ This application will help you keep track of the movies you have seen and movies
 <img src="https://drive.google.com/uc?export=view&id=1sztjwyrLyyXCU0ub-bW7GdK-F20ukZsi" width = "300" >
 </p>
 
-### Installation
+
+
+# Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/pelumy/MovieApp.git
    ```
 2. Install pod
    ```sh
